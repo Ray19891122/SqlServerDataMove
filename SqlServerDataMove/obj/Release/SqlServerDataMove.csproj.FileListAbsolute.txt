@@ -1,0 +1,14 @@
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\SqlServerDataMove\bin\Release\SqlServerDataMove.exe.config
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\SqlServerDataMove\bin\Release\SqlServerDataMove.exe
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\SqlServerDataMove\bin\Release\SqlServerDataMove.pdb
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\SqlServerDataMove\bin\Release\CusControlLibrary1.dll
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\SqlServerDataMove\bin\Release\CusControlLibrary1.pdb
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\SqlServerDataMove\obj\Release\SqlServerDataMove.csprojResolveAssemblyReference.cache
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\SqlServerDataMove\obj\Release\SqlServerDataMove.DataTrackForm.resources
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\SqlServerDataMove\obj\Release\SqlServerDataMove.Form1.resources
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\SqlServerDataMove\obj\Release\SqlServerDataMove.LoginForm.resources
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\SqlServerDataMove\obj\Release\SqlServerDataMove.Properties.Resources.resources
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\SqlServerDataMove\obj\Release\SqlServerDataMove.csproj.GenerateResource.Cache
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\SqlServerDataMove\obj\Release\SqlServerDataMove.exe
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\SqlServerDataMove\obj\Release\SqlServerDataMove.pdb
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\SqlServerDataMove\obj\Release\SqlServerDataMove.Form2.resources

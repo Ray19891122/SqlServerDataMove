@@ -1,0 +1,10 @@
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\CusControlLibrary1\bin\Debug\CusControlLibrary1.dll
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\CusControlLibrary1\bin\Debug\CusControlLibrary1.pdb
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\CusControlLibrary1\obj\Debug\CusControlLibrary1.DataTrack.resources
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\CusControlLibrary1\obj\Debug\CusControlLibrary1.LongStringForm.resources
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\CusControlLibrary1\obj\Debug\CusControlLibrary1.StepControl.resources
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\CusControlLibrary1\obj\Debug\CusControlLibrary1.StepReturn.resources
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\CusControlLibrary1\obj\Debug\CusControlLibrary1.UserControl1.resources
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\CusControlLibrary1\obj\Debug\CusControlLibrary1.csproj.GenerateResource.Cache
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\CusControlLibrary1\obj\Debug\CusControlLibrary1.dll
+C:\Users\Ray\documents\visual studio 2015\Projects\SqlServerDataMove\CusControlLibrary1\obj\Debug\CusControlLibrary1.pdb
